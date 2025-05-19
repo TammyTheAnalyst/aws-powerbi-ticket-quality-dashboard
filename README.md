@@ -13,7 +13,7 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸  Power BI Dashboard Screenshots
 
 <p align="center">
   <img src="https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4696).png" alt="Tickets per Agent - Clustered Column Chart" width="45%" />
