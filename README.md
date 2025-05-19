@@ -29,6 +29,7 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 - **SLA Met vs Missed by Agent**: The stacked bar chart shows how each agent performed on SLA compliance.
   Ben and Leo met all SLAs, while Ava and Jade had a mix of met and missed. This highlights who may need coaching.
 
+* click on each report to view full size *
 
 ## Tools Used
 
