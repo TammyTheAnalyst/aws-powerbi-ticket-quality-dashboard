@@ -1,4 +1,5 @@
-📊 AWS + Power BI: Ticket Quality Dashboard
+# 📊 AWS + Power BI: Ticket Quality Dashboard
+
 
 
 This mini project simulates what a Quality Assurance Analyst might do in a contact center environment using AWS and Power BI.
