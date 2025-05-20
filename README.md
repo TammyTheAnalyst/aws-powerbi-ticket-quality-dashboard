@@ -13,7 +13,7 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 
 ---
 
-## 📸  Power BI Dashboard Screenshots
+## 📸  Power BI Report Screenshots
 
 <p align="center">
   <img src="https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4696).png" alt="Tickets per Agent - Clustered Column Chart" width="45%" />
@@ -31,6 +31,8 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 
 *Click on each report to view full size*
 
+---
+
 ## Tools Used
 
 - **AWS S3** – for uploading and storing mock ticket data
@@ -45,6 +47,20 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 - Overall SLA Met vs Missed
 
 ---
+
+## Trello Project Board 5/19/2025
+
+!{}(https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4694).png)
+
+---
+
+## Screenshots of Bucket created and csv with ticket data uploaded into AWS S3
+
+![Bucket](https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4691).png)
+![Support tickets csv data](https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4692).png)
+
+---
+
 
 ## Folder Structure
 
