@@ -15,6 +15,8 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 
 ## 📸  Power BI Report Screenshots
 
+The following visuals were created in a Power BI **report** using support ticket data stored in AWS S3.
+
 <p align="center">
   <img src="https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4696).png" alt="Tickets per Agent - Clustered Column Chart" width="45%" />
   &nbsp;&nbsp;&nbsp;
@@ -29,7 +31,7 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 - **SLA Met vs Missed by Agent**: The stacked bar chart shows how each agent performed on SLA compliance.
   Ben and Leo met all SLAs, while Ava and Jade had a mix of met and missed. This highlights who may need coaching.
 
-*Click on each report to view full size*
+*Click on each visual to view full size*
 
 ---
 
@@ -41,16 +43,10 @@ Support ticket data is stored in AWS S3 and downloaded for analysis in Power BI.
 
 ---
 
-## Dashboard Features
-
-- Total Tickets Handled by Agent
-- Overall SLA Met vs Missed
-
----
 
 ## Trello Project Board 5/19/2025
 
-!{}(https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4694).png)
+![](https://github.com/TammyTheAnalyst/aws-powerbi-ticket-quality-dashboard/blob/main/images/Screenshot%20(4694).png)
 
 ---
 
