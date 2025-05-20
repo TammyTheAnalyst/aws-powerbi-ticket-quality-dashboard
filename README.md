@@ -66,6 +66,20 @@ README.md → this file
 
 --
 
+💼 Real-World Job Roles This Project Supports
+This project demonstrates hands-on experience in tools and tasks commonly used in the following roles:
+
+Quality Assurance Analyst – Auditing support tickets and tracking SLA performance using cloud-stored data and BI tools
+
+Data Analyst – Loading structured data from cloud storage (AWS S3), transforming it, and visualizing trends
+
+Business Intelligence Analyst – Building performance dashboards and reports to help leadership make data-driven decisions
+
+Customer Support Operations Analyst – Monitoring agent performance, customer satisfaction metrics, and compliance with service standards
+
+CRM Analyst – Analyzing ticket or case data, often exported from platforms like Salesforce or Zendesk
+
+Recruiters: This project highlights my ability to work with real-world support data using AWS and Power BI, create visual reports, and deliver insights aligned with business and quality goals.
 
 
 
