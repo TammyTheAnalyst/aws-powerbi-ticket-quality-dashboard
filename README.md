@@ -64,7 +64,6 @@ data/ → contains support_tickets.csv (mock file)
 images/ → contains screenshots of AWS steps and Power BI dashboard
 README.md → this file
 
---
 
 ---
 
